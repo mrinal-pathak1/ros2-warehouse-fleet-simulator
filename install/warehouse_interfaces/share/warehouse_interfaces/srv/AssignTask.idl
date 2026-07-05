@@ -1,0 +1,31 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from warehouse_interfaces/srv/AssignTask.srv
+// generated code does not contain a copyright notice
+
+
+module warehouse_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request")
+    struct AssignTask_Request {
+      double pickup_x;
+
+      double pickup_y;
+
+      double target_x;
+
+      double target_y;
+
+      string task_id;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct AssignTask_Response {
+      boolean success;
+
+      string assigned_robot;
+
+      string message;
+    };
+  };
+};

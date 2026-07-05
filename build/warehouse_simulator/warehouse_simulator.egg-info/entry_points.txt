@@ -1,0 +1,5 @@
+[console_scripts]
+fleet_manager = warehouse_simulator.fleet_manager:main
+robot_agent = warehouse_simulator.robot_agent:main
+warehouse_map = warehouse_simulator.warehouse_map:main
+

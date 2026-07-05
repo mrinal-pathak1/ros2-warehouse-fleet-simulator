@@ -1,0 +1,326 @@
+[0.000000] (-) TimerEvent: {}
+[0.001837] (-) JobUnselected: {'identifier': 'warehouse_interfaces'}
+[0.002013] (warehouse_simulator) JobQueued: {'identifier': 'warehouse_simulator', 'dependencies': OrderedDict([('warehouse_interfaces', '/home/mrinal/warehouse_ws/install/warehouse_interfaces')])}
+[0.002100] (warehouse_simulator) JobStarted: {'identifier': 'warehouse_simulator'}
+[0.100100] (-) TimerEvent: {}
+[0.201565] (-) TimerEvent: {}
+[0.303348] (-) TimerEvent: {}
+[0.404378] (-) TimerEvent: {}
+[0.505947] (-) TimerEvent: {}
+[0.606775] (-) TimerEvent: {}
+[0.707872] (-) TimerEvent: {}
+[0.808867] (-) TimerEvent: {}
+[0.910519] (-) TimerEvent: {}
+[1.012131] (-) TimerEvent: {}
+[1.113846] (-) TimerEvent: {}
+[1.215293] (-) TimerEvent: {}
+[1.317052] (-) TimerEvent: {}
+[1.418008] (-) TimerEvent: {}
+[1.519280] (-) TimerEvent: {}
+[1.620582] (-) TimerEvent: {}
+[1.721306] (-) TimerEvent: {}
+[1.822666] (-) TimerEvent: {}
+[1.923486] (-) TimerEvent: {}
+[2.024811] (-) TimerEvent: {}
+[2.126264] (-) TimerEvent: {}
+[2.227285] (-) TimerEvent: {}
+[2.328568] (-) TimerEvent: {}
+[2.429386] (-) TimerEvent: {}
+[2.530572] (-) TimerEvent: {}
+[2.631797] (-) TimerEvent: {}
+[2.733035] (-) TimerEvent: {}
+[2.834289] (-) TimerEvent: {}
+[2.935335] (-) TimerEvent: {}
+[3.036485] (-) TimerEvent: {}
+[3.137266] (-) TimerEvent: {}
+[3.238156] (-) TimerEvent: {}
+[3.339291] (-) TimerEvent: {}
+[3.440234] (-) TimerEvent: {}
+[3.541299] (-) TimerEvent: {}
+[3.641850] (-) TimerEvent: {}
+[3.742835] (-) TimerEvent: {}
+[3.843375] (-) TimerEvent: {}
+[3.944391] (-) TimerEvent: {}
+[4.044883] (-) TimerEvent: {}
+[4.145339] (-) TimerEvent: {}
+[4.246144] (-) TimerEvent: {}
+[4.347222] (-) TimerEvent: {}
+[4.447901] (-) TimerEvent: {}
+[4.548629] (-) TimerEvent: {}
+[4.649546] (-) TimerEvent: {}
+[4.750182] (-) TimerEvent: {}
+[4.850783] (-) TimerEvent: {}
+[4.951478] (-) TimerEvent: {}
+[5.052202] (-) TimerEvent: {}
+[5.152810] (-) TimerEvent: {}
+[5.253490] (-) TimerEvent: {}
+[5.354039] (-) TimerEvent: {}
+[5.454686] (-) TimerEvent: {}
+[5.555241] (-) TimerEvent: {}
+[5.655809] (-) TimerEvent: {}
+[5.756384] (-) TimerEvent: {}
+[5.856884] (-) TimerEvent: {}
+[5.957779] (-) TimerEvent: {}
+[6.058391] (-) TimerEvent: {}
+[6.158827] (-) TimerEvent: {}
+[6.259362] (-) TimerEvent: {}
+[6.359834] (-) TimerEvent: {}
+[6.460206] (-) TimerEvent: {}
+[6.560757] (-) TimerEvent: {}
+[6.661242] (-) TimerEvent: {}
+[6.761733] (-) TimerEvent: {}
+[6.862173] (-) TimerEvent: {}
+[6.962638] (-) TimerEvent: {}
+[7.063085] (-) TimerEvent: {}
+[7.163448] (-) TimerEvent: {}
+[7.263891] (-) TimerEvent: {}
+[7.364406] (-) TimerEvent: {}
+[7.464836] (-) TimerEvent: {}
+[7.565332] (-) TimerEvent: {}
+[7.665838] (-) TimerEvent: {}
+[7.766278] (-) TimerEvent: {}
+[7.866645] (-) TimerEvent: {}
+[7.967076] (-) TimerEvent: {}
+[8.067474] (-) TimerEvent: {}
+[8.167907] (-) TimerEvent: {}
+[8.268317] (-) TimerEvent: {}
+[8.368752] (-) TimerEvent: {}
+[8.469546] (-) TimerEvent: {}
+[8.569965] (-) TimerEvent: {}
+[8.670339] (-) TimerEvent: {}
+[8.770707] (-) TimerEvent: {}
+[8.871187] (-) TimerEvent: {}
+[8.971672] (-) TimerEvent: {}
+[9.072187] (-) TimerEvent: {}
+[9.172644] (-) TimerEvent: {}
+[9.273051] (-) TimerEvent: {}
+[9.373445] (-) TimerEvent: {}
+[9.473939] (-) TimerEvent: {}
+[9.574623] (-) TimerEvent: {}
+[9.675137] (-) TimerEvent: {}
+[9.775546] (-) TimerEvent: {}
+[9.875963] (-) TimerEvent: {}
+[9.976469] (-) TimerEvent: {}
+[10.076922] (-) TimerEvent: {}
+[10.177413] (-) TimerEvent: {}
+[10.277904] (-) TimerEvent: {}
+[10.378287] (-) TimerEvent: {}
+[10.478715] (-) TimerEvent: {}
+[10.579197] (-) TimerEvent: {}
+[10.679608] (-) TimerEvent: {}
+[10.780092] (-) TimerEvent: {}
+[10.880757] (-) TimerEvent: {}
+[10.981258] (-) TimerEvent: {}
+[11.081721] (-) TimerEvent: {}
+[11.182263] (-) TimerEvent: {}
+[11.282767] (-) TimerEvent: {}
+[11.383227] (-) TimerEvent: {}
+[11.483679] (-) TimerEvent: {}
+[11.584167] (-) TimerEvent: {}
+[11.684763] (-) TimerEvent: {}
+[11.785257] (-) TimerEvent: {}
+[11.885729] (-) TimerEvent: {}
+[11.986261] (-) TimerEvent: {}
+[12.086745] (-) TimerEvent: {}
+[12.187196] (-) TimerEvent: {}
+[12.287688] (-) TimerEvent: {}
+[12.388215] (-) TimerEvent: {}
+[12.488748] (-) TimerEvent: {}
+[12.589208] (-) TimerEvent: {}
+[12.689718] (-) TimerEvent: {}
+[12.790292] (-) TimerEvent: {}
+[12.890718] (-) TimerEvent: {}
+[12.991161] (-) TimerEvent: {}
+[13.091657] (-) TimerEvent: {}
+[13.192188] (-) TimerEvent: {}
+[13.292673] (-) TimerEvent: {}
+[13.393141] (-) TimerEvent: {}
+[13.493616] (-) TimerEvent: {}
+[13.594028] (-) TimerEvent: {}
+[13.694426] (-) TimerEvent: {}
+[13.794879] (-) TimerEvent: {}
+[13.895434] (-) TimerEvent: {}
+[13.995953] (-) TimerEvent: {}
+[14.096536] (-) TimerEvent: {}
+[14.196974] (-) TimerEvent: {}
+[14.297419] (-) TimerEvent: {}
+[14.397905] (-) TimerEvent: {}
+[14.498349] (-) TimerEvent: {}
+[14.598785] (-) TimerEvent: {}
+[14.699220] (-) TimerEvent: {}
+[14.799669] (-) TimerEvent: {}
+[14.900113] (-) TimerEvent: {}
+[15.000617] (-) TimerEvent: {}
+[15.101108] (-) TimerEvent: {}
+[15.201670] (-) TimerEvent: {}
+[15.302142] (-) TimerEvent: {}
+[15.402679] (-) TimerEvent: {}
+[15.503154] (-) TimerEvent: {}
+[15.603627] (-) TimerEvent: {}
+[15.704050] (-) TimerEvent: {}
+[15.804584] (-) TimerEvent: {}
+[15.905083] (-) TimerEvent: {}
+[16.005587] (-) TimerEvent: {}
+[16.106146] (-) TimerEvent: {}
+[16.206681] (-) TimerEvent: {}
+[16.307121] (-) TimerEvent: {}
+[16.407686] (-) TimerEvent: {}
+[16.508218] (-) TimerEvent: {}
+[16.608728] (-) TimerEvent: {}
+[16.709225] (-) TimerEvent: {}
+[16.809745] (-) TimerEvent: {}
+[16.910253] (-) TimerEvent: {}
+[17.010747] (-) TimerEvent: {}
+[17.111217] (-) TimerEvent: {}
+[17.211713] (-) TimerEvent: {}
+[17.312205] (-) TimerEvent: {}
+[17.412771] (-) TimerEvent: {}
+[17.513323] (-) TimerEvent: {}
+[17.613805] (-) TimerEvent: {}
+[17.714279] (-) TimerEvent: {}
+[17.814783] (-) TimerEvent: {}
+[17.915210] (-) TimerEvent: {}
+[18.015619] (-) TimerEvent: {}
+[18.116111] (-) TimerEvent: {}
+[18.216761] (-) TimerEvent: {}
+[18.317242] (-) TimerEvent: {}
+[18.417646] (-) TimerEvent: {}
+[18.518347] (-) TimerEvent: {}
+[18.618797] (-) TimerEvent: {}
+[18.719217] (-) TimerEvent: {}
+[18.819692] (-) TimerEvent: {}
+[18.920230] (-) TimerEvent: {}
+[19.020756] (-) TimerEvent: {}
+[19.121166] (-) TimerEvent: {}
+[19.221584] (-) TimerEvent: {}
+[19.321988] (-) TimerEvent: {}
+[19.422451] (-) TimerEvent: {}
+[19.522871] (-) TimerEvent: {}
+[19.623372] (-) TimerEvent: {}
+[19.723924] (-) TimerEvent: {}
+[19.824510] (-) TimerEvent: {}
+[19.925038] (-) TimerEvent: {}
+[20.025531] (-) TimerEvent: {}
+[20.126073] (-) TimerEvent: {}
+[20.226575] (-) TimerEvent: {}
+[20.327044] (-) TimerEvent: {}
+[20.427503] (-) TimerEvent: {}
+[20.527962] (-) TimerEvent: {}
+[20.628488] (-) TimerEvent: {}
+[20.772969] (-) TimerEvent: {}
+[20.873387] (-) TimerEvent: {}
+[20.973944] (-) TimerEvent: {}
+[21.074400] (-) TimerEvent: {}
+[21.174886] (-) TimerEvent: {}
+[21.275415] (-) TimerEvent: {}
+[21.376017] (-) TimerEvent: {}
+[21.476559] (-) TimerEvent: {}
+[21.577336] (-) TimerEvent: {}
+[21.677810] (-) TimerEvent: {}
+[21.778279] (-) TimerEvent: {}
+[21.878784] (-) TimerEvent: {}
+[21.979239] (-) TimerEvent: {}
+[22.079705] (-) TimerEvent: {}
+[22.180153] (-) TimerEvent: {}
+[22.280686] (-) TimerEvent: {}
+[22.381147] (-) TimerEvent: {}
+[22.481522] (-) TimerEvent: {}
+[22.581967] (-) TimerEvent: {}
+[22.682381] (-) TimerEvent: {}
+[22.783303] (-) TimerEvent: {}
+[22.883737] (-) TimerEvent: {}
+[22.984389] (-) TimerEvent: {}
+[23.084842] (-) TimerEvent: {}
+[23.185271] (-) TimerEvent: {}
+[23.285597] (-) TimerEvent: {}
+[23.385962] (-) TimerEvent: {}
+[23.486358] (-) TimerEvent: {}
+[23.586782] (-) TimerEvent: {}
+[23.687405] (-) TimerEvent: {}
+[23.787942] (-) TimerEvent: {}
+[23.888408] (-) TimerEvent: {}
+[23.988795] (-) TimerEvent: {}
+[24.089216] (-) TimerEvent: {}
+[24.189620] (-) TimerEvent: {}
+[24.290021] (-) TimerEvent: {}
+[24.390441] (-) TimerEvent: {}
+[24.490988] (-) TimerEvent: {}
+[24.591658] (-) TimerEvent: {}
+[24.692135] (-) TimerEvent: {}
+[24.792634] (-) TimerEvent: {}
+[24.893121] (-) TimerEvent: {}
+[24.993535] (-) TimerEvent: {}
+[25.094151] (-) TimerEvent: {}
+[25.194676] (-) TimerEvent: {}
+[25.295129] (-) TimerEvent: {}
+[25.395617] (-) TimerEvent: {}
+[25.496165] (-) TimerEvent: {}
+[25.596699] (-) TimerEvent: {}
+[25.697110] (-) TimerEvent: {}
+[25.797589] (-) TimerEvent: {}
+[25.898035] (-) TimerEvent: {}
+[25.998566] (-) TimerEvent: {}
+[26.098956] (-) TimerEvent: {}
+[26.199477] (-) TimerEvent: {}
+[26.299910] (-) TimerEvent: {}
+[26.400370] (-) TimerEvent: {}
+[26.500848] (-) TimerEvent: {}
+[26.601322] (-) TimerEvent: {}
+[26.701755] (-) TimerEvent: {}
+[26.802265] (-) TimerEvent: {}
+[26.902703] (-) TimerEvent: {}
+[27.003129] (-) TimerEvent: {}
+[27.103603] (-) TimerEvent: {}
+[27.205454] (-) TimerEvent: {}
+[27.309233] (-) TimerEvent: {}
+[27.412782] (-) TimerEvent: {}
+[27.514996] (-) TimerEvent: {}
+[27.617516] (-) TimerEvent: {}
+[27.721207] (-) TimerEvent: {}
+[27.824986] (-) TimerEvent: {}
+[27.925593] (-) TimerEvent: {}
+[28.029254] (-) TimerEvent: {}
+[28.129968] (-) TimerEvent: {}
+[28.233405] (-) TimerEvent: {}
+[28.334250] (-) TimerEvent: {}
+[28.437512] (-) TimerEvent: {}
+[28.538611] (-) TimerEvent: {}
+[28.641462] (-) TimerEvent: {}
+[28.742600] (-) TimerEvent: {}
+[28.844592] (-) TimerEvent: {}
+[28.937021] (warehouse_simulator) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/warehouse_simulator', 'build', '--build-base', '/home/mrinal/warehouse_ws/build/warehouse_simulator/build', 'install', '--record', '/home/mrinal/warehouse_ws/build/warehouse_simulator/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/mrinal/warehouse_ws/src/warehouse_simulator', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'mrinal', 'ROS_PACKAGE_PATH': '/home/mrinal/warehouse_ws/install/warehouse_interfaces/share', 'GIT_ASKPASS': '/home/mrinal/.vscode-server/bin/6928394f91b684055b873eecb8bc281365131f1c/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/mrinal/warehouse_ws/install/warehouse_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'update-motd', 'HOME': '/home/mrinal', 'TERM_PROGRAM_VERSION': '1.124.2', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-c813e68a-9144-4e19-bd47-a37f3dd0c952.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/mrinal/.vscode-server/bin/6928394f91b684055b873eecb8bc281365131f1c/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/home/mrinal/.vscode-server/bin/6928394f91b684055b873eecb8bc281365131f1c/node', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'WSL_DISTRO_NAME': 'Ubuntu-22.04', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/mrinal/warehouse_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'mrinal', 'NAME': 'Code', 'WSL_INTEROP': '/run/WSL/40187_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'PKG_CONFIG_PATH': '/home/mrinal/warehouse_ws/install/warehouse_interfaces/lib/x86_64-linux-gnu/pkgconfig:/home/mrinal/warehouse_ws/install/warehouse_interfaces/lib/pkgconfig', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/mrinal/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand:/home/mrinal/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli:/home/mrinal/.vscode-server/bin/6928394f91b684055b873eecb8bc281365131f1c/bin/remote-cli:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/MicrosoftCorporationII.WindowsSubsystemForLinux_2.6.3.0_x64__8wekyb3d8bbwe:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/windows/system32:/mnt/c/windows:/mnt/c/windows/System32/Wbem:/mnt/c/windows/System32/WindowsPowerShell/v1.0/:/mnt/c/windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Users/Administrator/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/HP/OMEN-Broadcast/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Users/Mrinal Pathak/.local/bin:/mnt/c/Users/Mrinal Pathak/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Mrinal Pathak/AppData/Roaming/npm:/mnt/c/Users/Mrinal Pathak/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-edcad17356.sock', 'TERM_PROGRAM': 'vscode', 'AMENT_PREFIX_PATH': '/home/mrinal/warehouse_ws/install/warehouse_simulator:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/mrinal/warehouse_ws/build/warehouse_simulator', 'COPILOT_DEBUG_NONCE': 'dfe28c4308dbb5dfd5bf29864b10739a', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/mrinal/warehouse_ws/build/warehouse_simulator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/home/mrinal/warehouse_ws/install/warehouse_interfaces/local/lib/python3.10/dist-packages:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/home/mrinal/warehouse_ws/install/warehouse_interfaces', 'WSLENV': 'ELECTRON_RUN_AS_NODE/w:'}, 'shell': False}
+[28.944742] (-) TimerEvent: {}
+[29.047802] (-) TimerEvent: {}
+[29.149040] (-) TimerEvent: {}
+[29.251951] (-) TimerEvent: {}
+[29.268622] (warehouse_simulator) StdoutLine: {'line': b'running egg_info\n'}
+[29.269731] (warehouse_simulator) StdoutLine: {'line': b'writing ../../build/warehouse_simulator/warehouse_simulator.egg-info/PKG-INFO\n'}
+[29.270463] (warehouse_simulator) StdoutLine: {'line': b'writing dependency_links to ../../build/warehouse_simulator/warehouse_simulator.egg-info/dependency_links.txt\n'}
+[29.270691] (warehouse_simulator) StdoutLine: {'line': b'writing entry points to ../../build/warehouse_simulator/warehouse_simulator.egg-info/entry_points.txt\n'}
+[29.271475] (warehouse_simulator) StdoutLine: {'line': b'writing requirements to ../../build/warehouse_simulator/warehouse_simulator.egg-info/requires.txt\n'}
+[29.271702] (warehouse_simulator) StdoutLine: {'line': b'writing top-level names to ../../build/warehouse_simulator/warehouse_simulator.egg-info/top_level.txt\n'}
+[29.274112] (warehouse_simulator) StdoutLine: {'line': b"reading manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'\n"}
+[29.275517] (warehouse_simulator) StdoutLine: {'line': b"writing manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'\n"}
+[29.275755] (warehouse_simulator) StdoutLine: {'line': b'running build\n'}
+[29.275857] (warehouse_simulator) StdoutLine: {'line': b'running build_py\n'}
+[29.276160] (warehouse_simulator) StdoutLine: {'line': b'copying warehouse_simulator/robot_agent.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator\n'}
+[29.276627] (warehouse_simulator) StdoutLine: {'line': b'copying warehouse_simulator/fleet_manager.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator\n'}
+[29.277278] (warehouse_simulator) StdoutLine: {'line': b'running install\n'}
+[29.277894] (warehouse_simulator) StdoutLine: {'line': b'running install_lib\n'}
+[29.279019] (warehouse_simulator) StdoutLine: {'line': b'copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/robot_agent.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator\n'}
+[29.279492] (warehouse_simulator) StdoutLine: {'line': b'copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/fleet_manager.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator\n'}
+[29.280523] (warehouse_simulator) StdoutLine: {'line': b'byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/robot_agent.py to robot_agent.cpython-310.pyc\n'}
+[29.283177] (warehouse_simulator) StdoutLine: {'line': b'byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/fleet_manager.py to fleet_manager.cpython-310.pyc\n'}
+[29.285851] (warehouse_simulator) StdoutLine: {'line': b'running install_data\n'}
+[29.286314] (warehouse_simulator) StdoutLine: {'line': b'running install_egg_info\n'}
+[29.289644] (warehouse_simulator) StdoutLine: {'line': b"removing '/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[29.290341] (warehouse_simulator) StdoutLine: {'line': b'Copying ../../build/warehouse_simulator/warehouse_simulator.egg-info to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info\n'}
+[29.292736] (warehouse_simulator) StdoutLine: {'line': b'running install_scripts\n'}
+[29.326717] (warehouse_simulator) StdoutLine: {'line': b'Installing fleet_manager script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator\n'}
+[29.327318] (warehouse_simulator) StdoutLine: {'line': b'Installing robot_agent script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator\n'}
+[29.327593] (warehouse_simulator) StdoutLine: {'line': b'Installing warehouse_map script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator\n'}
+[29.327870] (warehouse_simulator) StdoutLine: {'line': b"writing list of installed files to '/home/mrinal/warehouse_ws/build/warehouse_simulator/install.log'\n"}
+[29.352678] (-) TimerEvent: {}
+[29.363671] (warehouse_simulator) CommandEnded: {'returncode': 0}
+[29.385262] (warehouse_simulator) JobEnded: {'identifier': 'warehouse_simulator', 'rc': 0}
+[29.387283] (-) EventReactorShutdown: {}

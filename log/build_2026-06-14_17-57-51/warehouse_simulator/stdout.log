@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/warehouse_simulator/warehouse_simulator.egg-info
+writing ../../build/warehouse_simulator/warehouse_simulator.egg-info/PKG-INFO
+writing dependency_links to ../../build/warehouse_simulator/warehouse_simulator.egg-info/dependency_links.txt
+writing entry points to ../../build/warehouse_simulator/warehouse_simulator.egg-info/entry_points.txt
+writing requirements to ../../build/warehouse_simulator/warehouse_simulator.egg-info/requires.txt
+writing top-level names to ../../build/warehouse_simulator/warehouse_simulator.egg-info/top_level.txt
+writing manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+reading manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+writing manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mrinal/warehouse_ws/build/warehouse_simulator/build
+creating /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib
+creating /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+copying warehouse_simulator/robot_agent.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+copying warehouse_simulator/fleet_manager.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+copying warehouse_simulator/__init__.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+copying warehouse_simulator/warehouse_map.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+running install
+running install_lib
+creating /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/robot_agent.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/fleet_manager.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/__init__.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/warehouse_map.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/robot_agent.py to robot_agent.cpython-310.pyc
+byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/fleet_manager.py to fleet_manager.cpython-310.pyc
+byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/warehouse_map.py to warehouse_map.cpython-310.pyc
+running install_data
+creating /home/mrinal/warehouse_ws/install/warehouse_simulator/share/ament_index
+creating /home/mrinal/warehouse_ws/install/warehouse_simulator/share/ament_index/resource_index
+creating /home/mrinal/warehouse_ws/install/warehouse_simulator/share/ament_index/resource_index/packages
+copying resource/warehouse_simulator -> /home/mrinal/warehouse_ws/install/warehouse_simulator/share/ament_index/resource_index/packages
+copying package.xml -> /home/mrinal/warehouse_ws/install/warehouse_simulator/share/warehouse_simulator
+creating /home/mrinal/warehouse_ws/install/warehouse_simulator/share/warehouse_simulator/launch
+copying launch/bringup.launch.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/share/warehouse_simulator/launch
+running install_egg_info
+Copying ../../build/warehouse_simulator/warehouse_simulator.egg-info to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info
+running install_scripts
+Installing fleet_manager script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+Installing robot_agent script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+Installing warehouse_map script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+writing list of installed files to '/home/mrinal/warehouse_ws/build/warehouse_simulator/install.log'

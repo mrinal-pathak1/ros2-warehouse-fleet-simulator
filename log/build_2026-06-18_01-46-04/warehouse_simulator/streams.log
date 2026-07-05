@@ -1,0 +1,27 @@
+[1.657s] Invoking command in '/home/mrinal/warehouse_ws/src/warehouse_simulator': PYTHONPATH=/home/mrinal/warehouse_ws/build/warehouse_simulator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/home/mrinal/warehouse_ws/install/warehouse_interfaces/local/lib/python3.10/dist-packages:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/warehouse_simulator build --build-base /home/mrinal/warehouse_ws/build/warehouse_simulator/build install --record /home/mrinal/warehouse_ws/build/warehouse_simulator/install.log --single-version-externally-managed install_data
+[1.903s] running egg_info
+[1.904s] writing ../../build/warehouse_simulator/warehouse_simulator.egg-info/PKG-INFO
+[1.904s] writing dependency_links to ../../build/warehouse_simulator/warehouse_simulator.egg-info/dependency_links.txt
+[1.905s] writing entry points to ../../build/warehouse_simulator/warehouse_simulator.egg-info/entry_points.txt
+[1.906s] writing requirements to ../../build/warehouse_simulator/warehouse_simulator.egg-info/requires.txt
+[1.906s] writing top-level names to ../../build/warehouse_simulator/warehouse_simulator.egg-info/top_level.txt
+[1.917s] reading manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+[1.919s] writing manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+[1.919s] running build
+[1.920s] running build_py
+[1.920s] copying warehouse_simulator/robot_agent.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+[1.921s] running install
+[1.921s] running install_lib
+[1.922s] copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/robot_agent.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+[1.924s] byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/robot_agent.py to robot_agent.cpython-310.pyc
+[1.926s] Sorry: IndentationError: expected an indented block after function definition on line 136 (robot_agent.py, line 137)
+[1.926s] running install_data
+[1.926s] running install_egg_info
+[1.928s] removing '/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info' (and everything under it)
+[1.929s] Copying ../../build/warehouse_simulator/warehouse_simulator.egg-info to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info
+[1.931s] running install_scripts
+[1.955s] Installing fleet_manager script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+[1.956s] Installing robot_agent script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+[1.956s] Installing warehouse_map script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+[1.956s] writing list of installed files to '/home/mrinal/warehouse_ws/build/warehouse_simulator/install.log'
+[1.981s] Invoked command in '/home/mrinal/warehouse_ws/src/warehouse_simulator' returned '0': PYTHONPATH=/home/mrinal/warehouse_ws/build/warehouse_simulator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/home/mrinal/warehouse_ws/install/warehouse_interfaces/local/lib/python3.10/dist-packages:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/warehouse_simulator build --build-base /home/mrinal/warehouse_ws/build/warehouse_simulator/build install --record /home/mrinal/warehouse_ws/build/warehouse_simulator/install.log --single-version-externally-managed install_data

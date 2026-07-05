@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "warehouse_interfaces__rs",
+		"source" : "/home/mrinal/warehouse_ws/build/warehouse_interfaces/warehouse_interfaces__rs"
+	}
+}

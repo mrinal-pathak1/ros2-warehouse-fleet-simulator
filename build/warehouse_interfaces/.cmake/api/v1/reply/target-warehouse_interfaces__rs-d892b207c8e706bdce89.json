@@ -1,0 +1,73 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/mrinal/warehouse_ws/build/warehouse_interfaces/warehouse_interfaces__rs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 35,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "warehouse_interfaces__rs::@abaa598380562645cfc4",
+	"name" : "warehouse_interfaces__rs",
+	"paths" : 
+	{
+		"build" : "warehouse_interfaces__rs",
+		"source" : "/home/mrinal/warehouse_ws/build/warehouse_interfaces/warehouse_interfaces__rs"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/mrinal/warehouse_ws/build/warehouse_interfaces/warehouse_interfaces__rs/CMakeFiles/warehouse_interfaces__rs",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/mrinal/warehouse_ws/build/warehouse_interfaces/warehouse_interfaces__rs/CMakeFiles/warehouse_interfaces__rs.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/mrinal/warehouse_ws/build/warehouse_interfaces/rosidl_generator_rs/warehouse_interfaces/rust/src/lib.rs.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

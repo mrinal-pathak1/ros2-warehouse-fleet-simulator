@@ -1,0 +1,4 @@
+Invoking command in '/home/mrinal/warehouse_ws/build/warehouse_interfaces': /usr/bin/cmake --build /home/mrinal/warehouse_ws/build/warehouse_interfaces -- -j24 -l24
+Invoked command in '/home/mrinal/warehouse_ws/build/warehouse_interfaces' returned '0': /usr/bin/cmake --build /home/mrinal/warehouse_ws/build/warehouse_interfaces -- -j24 -l24
+Invoking command in '/home/mrinal/warehouse_ws/build/warehouse_interfaces': /usr/bin/cmake --install /home/mrinal/warehouse_ws/build/warehouse_interfaces
+Invoked command in '/home/mrinal/warehouse_ws/build/warehouse_interfaces' returned '0': /usr/bin/cmake --install /home/mrinal/warehouse_ws/build/warehouse_interfaces

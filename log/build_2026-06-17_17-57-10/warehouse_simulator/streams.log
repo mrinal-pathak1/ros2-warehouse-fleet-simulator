@@ -1,0 +1,26 @@
+[1.418s] Invoking command in '/home/mrinal/warehouse_ws/src/warehouse_simulator': PYTHONPATH=/home/mrinal/warehouse_ws/build/warehouse_simulator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/home/mrinal/warehouse_ws/install/warehouse_interfaces/local/lib/python3.10/dist-packages:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/warehouse_simulator build --build-base /home/mrinal/warehouse_ws/build/warehouse_simulator/build install --record /home/mrinal/warehouse_ws/build/warehouse_simulator/install.log --single-version-externally-managed install_data
+[1.609s] running egg_info
+[1.609s] writing ../../build/warehouse_simulator/warehouse_simulator.egg-info/PKG-INFO
+[1.610s] writing dependency_links to ../../build/warehouse_simulator/warehouse_simulator.egg-info/dependency_links.txt
+[1.610s] writing entry points to ../../build/warehouse_simulator/warehouse_simulator.egg-info/entry_points.txt
+[1.610s] writing requirements to ../../build/warehouse_simulator/warehouse_simulator.egg-info/requires.txt
+[1.610s] writing top-level names to ../../build/warehouse_simulator/warehouse_simulator.egg-info/top_level.txt
+[1.612s] reading manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+[1.613s] writing manifest file '../../build/warehouse_simulator/warehouse_simulator.egg-info/SOURCES.txt'
+[1.613s] running build
+[1.613s] running build_py
+[1.613s] copying warehouse_simulator/fleet_manager.py -> /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator
+[1.613s] running install
+[1.614s] running install_lib
+[1.614s] copying /home/mrinal/warehouse_ws/build/warehouse_simulator/build/lib/warehouse_simulator/fleet_manager.py -> /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator
+[1.615s] byte-compiling /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator/fleet_manager.py to fleet_manager.cpython-310.pyc
+[1.617s] running install_data
+[1.617s] running install_egg_info
+[1.619s] removing '/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info' (and everything under it)
+[1.620s] Copying ../../build/warehouse_simulator/warehouse_simulator.egg-info to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages/warehouse_simulator-0.0.0-py3.10.egg-info
+[1.621s] running install_scripts
+[1.643s] Installing fleet_manager script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+[1.643s] Installing robot_agent script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+[1.643s] Installing warehouse_map script to /home/mrinal/warehouse_ws/install/warehouse_simulator/lib/warehouse_simulator
+[1.644s] writing list of installed files to '/home/mrinal/warehouse_ws/build/warehouse_simulator/install.log'
+[1.668s] Invoked command in '/home/mrinal/warehouse_ws/src/warehouse_simulator' returned '0': PYTHONPATH=/home/mrinal/warehouse_ws/build/warehouse_simulator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/home/mrinal/warehouse_ws/install/warehouse_interfaces/local/lib/python3.10/dist-packages:/home/mrinal/warehouse_ws/install/warehouse_simulator/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/warehouse_simulator build --build-base /home/mrinal/warehouse_ws/build/warehouse_simulator/build install --record /home/mrinal/warehouse_ws/build/warehouse_simulator/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+{
+  "package_name": "warehouse_interfaces",
+  "non_idl_tuples": [
+    "/home/mrinal/warehouse_ws/src/warehouse_interfaces:srv/AssignTask.srv"
+  ]
+}

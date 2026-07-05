@@ -1,0 +1,6 @@
+# Request
+float64 pickup_x
+float64 pickup_y
+float64 target_x
+float64 target_y
+string task_id
