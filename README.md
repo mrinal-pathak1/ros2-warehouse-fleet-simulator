@@ -18,7 +18,10 @@ A ROS2-based warehouse automation simulator featuring 3 autonomous robots coordi
 
 
 
-https://github.com/user-attachments/assets/2d404b2d-f84c-44b8-8d2a-ef7f4f6eeb81
+
+https://github.com/user-attachments/assets/46d2fdd0-312d-4530-adf7-c82bdd2d33b6
+
+
 
 
 
