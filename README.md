@@ -4,8 +4,9 @@ A ROS2-based warehouse automation simulator featuring 3 autonomous robots coordi
 
 **Skills:** ROS2 · Python · RViz2
 
-## System Architecture
-<img width="840" height="458" alt="image" src="https://github.com/user-attachments/assets/8e2b6c27-1106-4ed7-bfff-3cad317de5df" />
+## System Architecture Diagram
+<img width="1331" height="726" alt="Screenshot 2026-08-12 032430" src="https://github.com/user-attachments/assets/8ce5a8c3-827a-480f-ab10-49ae6c5be196" />
+
 
 ## Key Technical Work
 
